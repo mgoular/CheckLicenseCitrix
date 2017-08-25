@@ -1,4 +1,9 @@
-﻿#Your License Server
+# Check License Citrix Servers for Licenses usage
+# Script version 1.0 
+# Date : 01/05/2016
+# Michael Goulart
+
+#Your License Server
 $CitrixLicenseServer = "IP.OF.YOUR.LICENSE.SERVER"
  
 #Do you want to report on licenses with 0 users?
